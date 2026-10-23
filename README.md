@@ -17,6 +17,8 @@ Pandas
 NumPy
 Streamlit/Flask (depending on your app.py implementation)
 Pickle
+
+
 Project Structure
 ├── HeartPrjt.ipynb      # Model training and analysis
 ├── app.py               # Web application
@@ -24,6 +26,8 @@ Project Structure
 ├── scaler.pkl           # Feature scaler
 ├── columns.pkl          # Feature column information
 ├── requirements.txt     # Dependencies
+
+
 
 Objective
 
